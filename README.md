@@ -8,10 +8,7 @@ Hello, I am [Dai](https://www.craftpine.xyz/), a freelance software engineer and
 
 * 🌍  I'm based in VietNam
 * 🖥️  See my portfolio at [crafpine.xyz](http://www.craftpine.xyz/)
-* ✉️  You can contact me at [hoangdai9895@gmail.com](mailto:hoangdai9895@gmail.com)
-* 🧠  I'm learning Rxjs, Flutter
-
-* 💼 Any freelance work? reach to my email :) 
+* 💼 Any freelance work? reach to my [email](mailto:hoangdai9895@gmail.com) :) 
 * 💬 Ask me about anything, I am happy to help;
 
 ### Skills
