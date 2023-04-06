@@ -6,10 +6,14 @@ Full-stack developer (strong Front-end)
 
 Hello, I am Dai, a freelance software engineer and a passionate self-taught full-stack web developer hailing from Vietnam. My enthusiasm for software development stems from envisioning ideas and bringing them to life through sophisticated interfaces. When building software, I place great emphasis on user experience, architectural design, and code quality to ensure that the end product is of high quality. 💼 Any freelance work? reach to my email :) 💬 Ask me about anything, I am happy to help;
 
-*   🌍  I'm based in VietNam
-*   🖥️  See my portfolio at [crafpine.xyz](http://www.craftpine.xyz/)
-*   ✉️  You can contact me at [hoangdai9895@gmail.com](mailto:hoangdai9895@gmail.com)
-*   🧠  I'm learning Rxjs, Flutter### Skills 
+* 🌍  I'm based in VietNam
+* 🖥️  See my portfolio at [crafpine.xyz](http://www.craftpine.xyz/)
+* ✉️  You can contact me at [hoangdai9895@gmail.com](mailto:hoangdai9895@gmail.com)
+* 🧠  I'm learning Rxjs, Flutter
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -45,17 +49,20 @@ Hello, I am Dai, a freelance software engineer and a passionate self-taught full
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/craftpine#7348" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/craftpine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/hoangdai0908/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/craftpine"><img src="https://github-readme-stats.vercel.app/api?username=craftpine&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="craftpine's GitHub stats" /></a><a
-                      href="http://www.github.com/craftpine"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=craftpine&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/hoangdai95"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/craftpine#7348" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/craftpine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hoangdai0908/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/craftpine"><img src="https://github-readme-stats.vercel.app/api?username=craftpine&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="craftpine's GitHub stats" /></a>
+
+<a href="http://www.github.com/craftpine"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=craftpine&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/hoangdai95"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
