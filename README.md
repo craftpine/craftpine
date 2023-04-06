@@ -4,12 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack developer (strong Front-end)
 ---------------------------------------
 
-Hello, I am Dai, a freelance software engineer and a passionate self-taught full-stack web developer hailing from Vietnam. My enthusiasm for software development stems from envisioning ideas and bringing them to life through sophisticated interfaces. When building software, I place great emphasis on user experience, architectural design, and code quality to ensure that the end product is of high quality. 💼 Any freelance work? reach to my email :) 💬 Ask me about anything, I am happy to help;
+Hello, I am [Dai](https://www.craftpine.xyz/), a freelance software engineer and a passionate self-taught full-stack web developer hailing from Vietnam. My enthusiasm for software development stems from envisioning ideas and bringing them to life through sophisticated interfaces. When building software, I place great emphasis on user experience, architectural design, and code quality to ensure that the end product is of high quality. 
 
 * 🌍  I'm based in VietNam
 * 🖥️  See my portfolio at [crafpine.xyz](http://www.craftpine.xyz/)
 * ✉️  You can contact me at [hoangdai9895@gmail.com](mailto:hoangdai9895@gmail.com)
 * 🧠  I'm learning Rxjs, Flutter
+
+* 💼 Any freelance work? reach to my email :) 
+* 💬 Ask me about anything, I am happy to help;
 
 ### Skills
 
