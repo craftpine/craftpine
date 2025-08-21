@@ -61,8 +61,6 @@ Hello, I am [Dai](https://www.craftpine.me/), a freelance software engineer and 
 
 <a href="http://www.github.com/craftpine"><img src="https://github-readme-stats.vercel.app/api?username=craftpine&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="craftpine's GitHub stats" /></a>
 
-<a href="http://www.github.com/craftpine"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=craftpine&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/hoangdai95"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
