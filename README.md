@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dai
 ===========================================================================================================================
 
-Full-stack developer (strong Front-end)
+Full-stack developer
 ---------------------------------------
 
 Hello, I am [Dai](https://www.craftpine.me/), a freelance software engineer and a passionate self-taught full-stack web developer hailing from Vietnam. My enthusiasm for software development stems from envisioning ideas and bringing them to life through sophisticated interfaces. When building software, I place great emphasis on user experience, architectural design, and code quality to ensure that the end product is of high quality. 
